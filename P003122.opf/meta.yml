@@ -1,7 +1,7 @@
 id: P003122
 initial_creation_type: ocr
 created_at: 28/03/2020
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:41:45.695116
 source_metadata:
   id: bdr:W1KG22147
   title: ཞི་བྱེད་སྔ་ཕྱི་བར་གསུམ་གྱི་ཆོས་སྐོར་ཕྱོགས་བསྒྲིགས།
@@ -85,3 +85,5 @@ source_metadata:
       volume_number: 13
       total_pages: 450
       base_file: v013.txt
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
